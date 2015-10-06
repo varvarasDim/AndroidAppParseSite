@@ -1,0 +1,2 @@
+C:\Users\Dimitris_Varvaras\AndroidStudioProjects\AndroidAppParseSite\app\build\intermediates\classes\debug
+C:\Users\Dimitris_Varvaras\AndroidStudioProjects\AndroidAppParseSite\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2-7fe7926d7330d0d038a6813e4f800a714b54a3d5.jar

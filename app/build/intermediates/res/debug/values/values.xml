@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Dimitris_Varvaras/AndroidStudioProjects/AndroidAppParseSite/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="green">#00FF00</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">newsbomb.gr</string>
+    <string name="hello">Hello World, Main!</string>
+</resources>

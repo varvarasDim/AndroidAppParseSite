@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dimitris_Varvaras\AndroidStudioProjects\AndroidAppParseSite\app\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="C:\Users\Dimitris_Varvaras\AndroidStudioProjects\AndroidAppParseSite\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2-7fe7926d7330d0d038a6813e4f800a714b54a3d5.jar" />
+    </item>
+
+</items>
